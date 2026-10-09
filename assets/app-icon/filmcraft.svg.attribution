@@ -1,0 +1,7 @@
+asset:        filmcraft.svg
+title:        OpenArt app icon, canonical vector (owl with ear tufts)
+author:       Project owner (user-provided)
+source:       SVG wrapper embedding openart-source.png
+license:      Permission for use in the OpenArt repository
+added:        2026-10-09 by project owner
+notes:        Generated from openart-source.png; historical filename retained for build compatibility.
